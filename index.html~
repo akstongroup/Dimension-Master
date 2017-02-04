@@ -76,10 +76,13 @@
 								<span class="image main"><img src="images/Team.png" alt="" /> <!-- </span> -->
 								<!-- <span>Doug Millett		Dave Heninger		Keith Daigle</span> -->
 								<!-- <span> -->
-								<center>
-									<a href="#doug"><span style="font-size: smaller;">Doug Millett</span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-									<a href="#dave"><span style="font-size: smaller;">Dave Heninger</span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-									<a href="#keith"><span style="font-size: smaller;">Keith Daigle</span></a> </center>
+                                <table>
+                                  <tr>
+                                    <th><a href="#doug">Doug Millett</a></th>
+                                    <th><a href="#dave">Dave Heninger</a></th>
+                                    <th><a href="#keith">Keith Daigle</a></th>
+                                  </tr>
+                                </table>
 								</span>	
 								</article>
 
